@@ -1,4 +1,4 @@
-# Sistema-simples-de-calculo-de-desconto-para-loja
+# Sistema simples de calculo de desconto para loja
 
 # Recebe os valores de input e retorna saídas para o fim de calcular o desconto para um cliente com base nas condições.
 
