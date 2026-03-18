@@ -1,5 +1,9 @@
 # Sistema-simples-de-calculo-de-desconto-para-loja
-Recebe os valores de input e retorna saídas para o fim de calcular o desconto para um cliente com base nas condições.
+
+# Recebe os valores de input e retorna saídas para o fim de calcular o desconto para um cliente com base nas condições.
+
+# Uso da linguagem Python
+
 nome = input('Qual o seu nome?')    
 preco = float(input('Qual o valor gasto no produto?'))
 preco_form = format_currency(preco, "BRL", locale='pt_BR')
